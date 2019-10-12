@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570882338 source:d:\bimal\14 semester\cse440\cse440 assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
